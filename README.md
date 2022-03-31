@@ -12,6 +12,6 @@ Merhaba, ben ***Orhan ÇAKMAK***. 27 yaşındayım ve İzmir'de yaşıyorum.
     
 Lisans eğitimimde C dersi alarak başlayan yazılım maceram ardından matlab kullanarak ve sonunda pyhton ile tanışarak devam etti. Bundan sonra da kendimi olabildiğince geliştirmek adına bir şeyler yapabilmeyi umuyorum. 
     
-Bu yolda bizlere destek olan [**Patika.dev**](patika.dev) ailesine de sonsuz teşekkürler.
+Bu yolda bizlere destek olan [**Patika.dev**](www.patika.dev) ailesine de sonsuz teşekkürler.
 
 *Saygılarımla...*
